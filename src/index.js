@@ -12,7 +12,7 @@ ReactDOM.render(
     <ul>
       <li> Pizza </li>
       <li> Potaattisalaatti </li>
-      <li> Pinaatti-Rebeccaaaaaa </li>
+      <li> Pinaatti-Rebecca </li>
     </ul>
   </div>,
   document.getElementById("root")
